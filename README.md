@@ -12,6 +12,10 @@ Linhas de código da classe calculadora:
 ![Classe Calculadora](classecalculadora.PNG)
 
 ## Classe de Testes (Calculadora)
-Cenário de teste para o método de soma:
+### Cenário de teste para o método de soma:
 
+![Cenário de Teste Soma](cenariodetestesoma.PNG)
 
+### Cenário de teste para o método de subtração:
+
+![Cenário de Teste Subtração](cenariodetestesubtracao.PNG)
