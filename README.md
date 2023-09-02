@@ -7,4 +7,11 @@ A atividade consiste basicamente em desenvolver uma calculadora com as operaçõ
 Foram criadas duas classes distintas, uma classe onde abriga os métodos com as operações básicas, dando funcionamento a calculadora, e outra classe de teste onde será efetuado diversos cenários diferentes, que testarão a eficácia da calculadora.
 
 ## Classe (Calculadora)
-![Classe Calculadora](classecalculadora.png)
+Linhas de código da classe calculadora:
+
+![Classe Calculadora](classecalculadora.PNG)
+
+## Classe de Testes (Calculadora)
+Cenário de teste para o método de soma:
+
+
