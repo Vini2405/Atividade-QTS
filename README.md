@@ -22,7 +22,7 @@ Linhas de código da classe calculadora:
 
 ### Cenário de teste para o método de multiplicação:
 
-![Cenário de Teste Multiplicação](cenariodetestemultiplicação.PNG)
+![Cenário de Teste Multiplicação](cenariodetestemultiplicacao.PNG)
 
 ### Cenário de teste para o método de divisão:
 
