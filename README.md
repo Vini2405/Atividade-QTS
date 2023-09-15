@@ -19,3 +19,15 @@ Linhas de código da classe calculadora:
 ### Cenário de teste para o método de subtração:
 
 ![Cenário de Teste Subtração](cenariodetestesubtracao.PNG)
+
+### Cenário de teste para o método de multiplicação:
+
+![Cenário de Teste Multiplicação](cenariodetestemultiplicação.PNG)
+
+### Cenário de teste para o método de divisão:
+
+![Cenário de Teste Divisão 1](cenariodetestedivisao1.PNG)
+# Parte 1
+
+![Cenário de Teste Divisão 2](cenariodetestedivisao2.PNG)
+# Parte 2
