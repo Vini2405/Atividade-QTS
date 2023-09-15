@@ -27,7 +27,7 @@ Linhas de código da classe calculadora:
 ### Cenário de teste para o método de divisão:
 
 ![Cenário de Teste Divisão 1](cenariodetestedivisao1.PNG)
-# Parte 1
+#### Parte 1
 
 ![Cenário de Teste Divisão 2](cenariodetestedivisao2.PNG)
-# Parte 2
+#### Parte 2
